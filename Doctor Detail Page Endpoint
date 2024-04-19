@@ -1,0 +1,7 @@
+{
+    "id": "doctor_id",
+    "name": "Doctor Name",
+    "specialization": "Doctor Specialization",
+    "available_days": ["Monday", "Tuesday" ],
+    "max_patients_per_day":
+}

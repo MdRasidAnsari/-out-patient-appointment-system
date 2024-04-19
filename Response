@@ -1,0 +1,7 @@
+{
+    "appointment_id": "appointment_id",
+    "doctor_id": "doctor_id",
+    "patient_name": "Patient Name",
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM"
+}

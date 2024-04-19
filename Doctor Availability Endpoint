@@ -1,0 +1,7 @@
+{
+    "doctor_id": "doctor_id",
+    "date": "YYYY-MM-DD",
+    "available_slots": [
+        "18:00", "18:30"
+    ]
+}
